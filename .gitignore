@@ -1,0 +1,8 @@
+# vscode folder
+.vscode
+
+# jupyter checkpoints
+.ipynb_checkpoints
+
+# Zone Identifiers
+*.Identifier
