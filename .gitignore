@@ -1,0 +1,16 @@
+# vscode folder
+.vscode
+
+# jupyter checkpoints
+.ipynb_checkpoints
+
+# Zone Identifiers
+*.Identifier
+
+# data files
+data/rt.movie_info.tsv
+data/rt.reviews.tsv
+data/tmdb.movies.csv
+data/tn.movie_budgets.csv
+data/im.db
+
