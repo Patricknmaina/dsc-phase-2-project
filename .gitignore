@@ -6,3 +6,6 @@
 
 # Zone Identifiers
 *.Identifier
+
+# data
+data/
