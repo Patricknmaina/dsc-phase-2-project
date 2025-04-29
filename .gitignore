@@ -8,4 +8,9 @@
 *.Identifier
 
 # data
-data/
+data/rt.movie_info.tsv
+data/bom.movie_gross.csv
+data/im.db
+data/rt.reviews.tsv
+data/tmdb.movies.csv
+data/tn.movie_budgets.csv
