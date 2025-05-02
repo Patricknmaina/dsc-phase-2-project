@@ -1,3 +1,5 @@
+![box_office](images/README_Intro.jpg)
+
 ## 🎬 **Box Office Analysis for New Movie Studio**
 Generating data-driven insights for launching a Film Studio.
 
@@ -80,23 +82,24 @@ We need to identify which factors, such as genre, budget, and release timing, si
 - Created new features where necessary (e.g., adding `total_gross` column).
 
 ### 📊 **Exploratory Data Analysis (EDA)**:
-- Here we will do:
+- In this section, we carried out:
 
-**Univariate Analysis (Single-Variable Analysis):**
+   1. **Univariate Analysis (Single-Variable Analysis):**
 
-This is examining one variable at a time to understand the distribution and characteristics of individual variables
+      - This is examining one variable at a time to understand the distribution and characteristics of individual variables
 
-Eg: Examined distributions of genres, ratings, and gross revenues.
+      - Eg: Examined distributions of genres, ratings, and gross revenues.
 
-**Bivariate Analysis  (Two-Variable Analysis):** 
 
-This is examining relationships between two variables to help Identify patterns, relationships or differences between variables.
+   2. **Bivariate Analysis  (Two-Variable Analysis):** 
 
-E.g: Compared genre vs gross earnings, number of votes vs genres, and gross revenue vs movie title.
+      - This is examining relationships between two variables to help Identify patterns, relationships or differences between variables.
 
-**Correlation Matrix:**
+      - E.g: Compared genre vs gross earnings, number of votes vs genres, and gross revenue vs movie title.
 
-Checked numerical relationships between number of votes, release year, ratings, and revenues.
+   3. **Correlation Matrix:**
+
+      - Checked numerical relationships between number of votes, release year, ratings, and revenues.
 
 ### 📈 **Visualizations**: 
 
@@ -195,7 +198,7 @@ dsc-phase-2-project/
 ```
 
 ### 📋 **Trello Board**
-The link to our trello board is embedded below:
+✅ The link to our trello project management board is embedded below: 
 
 [Trello Project Management Board](https://trello.com/b/pMBim3Vp/group-1-phase-2-project)
 
