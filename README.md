@@ -195,6 +195,7 @@ dsc-phase-2-project/
 ├── 📝reports
 │   ├── CRISPDM_Documentation.docx                  # CRISPDM document
 │   ├── presentation.pdf                            # project slide deck
+│   ├── index.pdf                                   # jupyter notebook pdf file
 ```
 
 ### 📋 **Trello Board**
