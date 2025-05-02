@@ -194,7 +194,7 @@ dsc-phase-2-project/
 ├── 📘index.ipynb                                   # main jupyter notebook
 ├── 📝reports
 │   ├── CRISPDM_Documentation.docx                  # CRISPDM document
-│   ├── Presentation.pdf                            # project slide deck
+│   ├── presentation.pdf                            # project slide deck
 ```
 
 ### 📋 **Trello Board**
@@ -203,7 +203,7 @@ dsc-phase-2-project/
 [Trello Project Management Board](https://trello.com/b/pMBim3Vp/group-1-phase-2-project)
 
 ### ℹ️ **For More Information**
-Check the full analysis in the [Jupyter Notebook](https://github.com/Patricknmaina/dsc-phase-2-project/blob/main/index.ipynb)
+Check the full analysis in the [Jupyter Notebook](https://github.com/Patricknmaina/dsc-phase-2-project/blob/main/index.ipynb) and in our [Presentation Slide Deck](https://github.com/Patricknmaina/dsc-phase-2-project/blob/main/reports/presentation.pdf)
 
 ### 👤**Contributors**
 - Patrick Maina (Group Leader): [Email](patrick.maina3@student.moringaschool.com)
